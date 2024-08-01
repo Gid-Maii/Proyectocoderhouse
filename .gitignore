@@ -2,3 +2,6 @@
 img_cache
 *.txt'
 background.jpg
+wireframe/
+node_modules/
+node_modules/
