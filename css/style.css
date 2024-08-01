@@ -1,13 +1,10 @@
 
-
-
-/* General Styles */
 body {
     font-family: Arial, sans-serif;
 }
 
 header .logo {
-    width: 100px; /* Ajusta el tamaño del logo */
+    width: 100px;
 }
 
 .navbar {

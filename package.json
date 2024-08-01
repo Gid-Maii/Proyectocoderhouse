@@ -1,0 +1,15 @@
+{
+  "name": "proyectocoderhouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "sass --no-source-map scss/estilos.scss css/estilos.css",
+    "watch-css": "sass --watch scss/estilos.scss:css/estilos.css"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "sass": "^1.32.0"
+  }
+}
+
