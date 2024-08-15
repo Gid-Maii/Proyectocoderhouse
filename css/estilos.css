@@ -201,6 +201,10 @@ main .cta .cta-content .cta-button:hover {
   line-height: 1.6;
 }
 
+.contenido {
+  background-color: azure;
+}
+
 footer {
   background-color: #333;
   color: #fff;
