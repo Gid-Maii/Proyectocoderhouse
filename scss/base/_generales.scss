@@ -1,0 +1,25 @@
+// _generales.scss
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/imgendefondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+a {
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+$color-primary: rgb(165, 105, 189);
+$color-secondary: rgb(187, 143, 206);
+$color-light: rgb(214, 234, 248);
+$color-dark: #333;
+$color-text: #fff;
+
+

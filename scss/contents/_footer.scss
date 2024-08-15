@@ -1,0 +1,31 @@
+footer {
+    background-color: $color-dark;
+    color: $color-text;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.footer .rrss {
+    width: 30px;
+    height: 30px;
+}
+
+.footer p {
+    margin: 0.5rem 0;
+}
+
+.footer .maps {
+    width: 100%;
+    max-width: 600px;
+    height: 300px;
+    border-radius: 8px;
+    margin-top: 1rem;
+}
